@@ -1,0 +1,1 @@
+# world_quant_P6_generator_app
